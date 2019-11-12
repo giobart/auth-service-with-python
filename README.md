@@ -1,2 +1,2 @@
-# auth-service-with-python
-Example service that provide auth token with python
+# Auth Service with Python
+Example service that provide auth JWT token 
