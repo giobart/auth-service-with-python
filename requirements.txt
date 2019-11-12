@@ -1,0 +1,6 @@
+flask_profiler
+flask
+flask-restful
+flask-jwt-extended
+passlib
+
